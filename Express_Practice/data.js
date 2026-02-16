@@ -1,0 +1,25 @@
+export let userData=[{
+    id:1,
+    name:"Ram",
+    city:"Mathura"
+},
+{
+    id:2,
+    name:"Shyam",
+    city:"delhi"
+},
+{
+    id:3,
+    name:"Sita",
+    city:"Nodia"
+},
+{
+    id:4,
+    name:"gita",
+    city:"Mumbai"
+},
+{
+    id:5,
+    name:"Sonu",
+    city:"Goa"
+}]
