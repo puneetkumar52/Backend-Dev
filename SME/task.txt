@@ -1,0 +1,10 @@
+REST API-JSON
+
+GET/ user- List all users 
+GET/api/users- list all the users JSON
+
+GET/api/users/1-  get the user with ID 1 
+GET/api/users/2-  get the user with ID 2 
+
+Dynamic part parameter 
+GET/api/users/:
